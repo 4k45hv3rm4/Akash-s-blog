@@ -3,7 +3,7 @@ module.exports = {
     title: `Akash's Blog`,
     author: {
       name: `Akash Verma`,
-      summary: `who lives and works in Hyderabad and i positively skeptical .`,
+      summary: `who lives and works in Hyderabad and is positively skeptical .`,
     },
     description: `A starter blog for my js journey.`,
     siteUrl: `https://akashverma.netlify.com/`,
